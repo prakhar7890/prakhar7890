@@ -65,9 +65,7 @@ _Nov 2020 – Aug 2023_
 
 ## 🔹 Featured Projects  
 
-- 🔥 Forest Fire Prediction System (ML + NASA FIRMS)  
-- 💻 Laptop Price Monitoring System (Web Scraping + Visualization)  
-- 🧾 POS System (Petpooja Clone – Node.js + SQLite)  
+- 🔥 Forest Fire Prediction System (ML + NASA FIRMS)   
 - 📊 Data Analytics Projects (Power BI, Tableau)  
 
 ---
